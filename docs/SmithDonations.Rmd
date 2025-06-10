@@ -1,0 +1,460 @@
+---
+title: "SmithDonations"
+output: html_document
+date: "2025-06-10"
+---
+[lifke.laur\@gmail.com](mailto:lifke.laur@gmail.com){.email}
+
+
+
+testing change again testing 123
+
+During the 2024 election, David D. Smith, CEO of Sinclair Broadcast Group and owner of the Baltimore Sun, donated the sixth-highest dollar amount out of all donors to receiving committees, according to Maryland's 2024 campaign finance data. The donations, totaling $85,000 and made through two transactions in October 2024, were made out to People for Elected Accountability and Civic Engagement -- a ballot issue committee that aimed to shrink the size of the Baltimore City Council. Though that ballot measure didn't pass in November, Smith's influence on the Sun's coverage remains a hot topic more than a year after its purchase, especially as the topics of press freedom and political influence on media have grown nationally since President Donald Trump's inauguration. 
+
+Baltimore citizens are the target audience, as they voted against the ballot measure 62%-38%, with the help of Mayor Brandon Scott and the Stop Sinclair Committee. 
+
+**Interview subjects**:
+
+1. A spokesperson for PEACE who can comment on the donations
+
+2. A spokesperson for Stop Sinclair, the committee that succeeded in its goal of not allowing the ballot measure to pass
+
+3. Current or former reporters for the Baltimore Sun who can speak on the shift in culture after Smith's purchase
+
+4. The data to compare the size of Smith's donations with others
+
+**Potential impact**: 
+By digging deeper into the specifics of the campaign donations, which have already been reported on, the article can keep the conversation and momentum going regarding Smith's influence on local politics and the media in Baltimore. Discussion of this topic has already helped sway voters to vote against a ballot measure for just the second time in 25 years, according to the Baltimore Banner. Keeping the conversation moving might allow for change in future elections, too. 
+
+**Three surprising or interesting things**:
+It was surprising to see that an individual, as opposed to an organization, was in the top 10 contributors. I also learned more about the local Maryland politics just by discussing the story with classmates and mentors, so it was interesting to grow more invested in the community I'll be reporting in. Aside from that, I also learned that, although the contribution amount caps at an allotted $6,000 per person, there is an exception for ballot issue committees. 
+
+**Previous coverage**:
+The Baltimore Banner is a newer newsroom that has been following Smith's purchase of the Baltimore Sun and his involvement in the ballot measure, and its coverage, linked below, highlights the impact that shrinking a city council would have had on smaller communities. It has also followed the Stop Sinclair committee, showing that the fight against Smith has grown expensive.
+
+I can make this story visual by comparing the size of Smith's donations with other individuals and groups. The top 20 donors exceeded other donations by a large margin, so I can show how Smith compares to them both in number and by issue using pie charts or bar graphs. I can also use older data to show how Smith's contributions have changed over time. 
+
+I need to gather newer data -- according to Maryland State Board of Elections, disclosures of contributions are due biannually, with the most recent being May 31. These contributions aren't available publicly online yet from what I can tell, but once it's up I can gather that information and include it to add to the timeliness aspect of the story. https://elections.maryland.gov/campaign_finance/disclosure_of_contributions.html
+
+**Related coverage**:
+
+<https://www.rollingstone.com/politics/politics-features/baltimore-sun-right-wing-takeover-david-smith-1235268329/>
+
+<https://www.thebaltimorebanner.com/politics-power/local-government/baltimore-council-ballot-size-E6DOSA5QD5E3JIRGQHUV53WXUA/>
+
+<https://www.wypr.org/wypr-news/2024-11-05/baltimore-city-voters-reject-ballot-question-h-and-keep-city-council-current-size>
+
+<https://www.thebaltimorebanner.com/economy/sun-owner-david-smith-fox-VQKQHEG4EJAIVA6TRKXMKR5EUM/>
+
+<https://www.thebaltimorebanner.com/politics-power/local-government/baltimore-council-reduction-david-smith-BQDKG67DN5BJ5IOUPIXB4IO3AU/>
+
+<https://www.thebaltimorebanner.com/politics-power/local-government/smaller-baltimore-council-ballot-question-AN7255KQU5GSRIVVJBIKKAQ5SE/>
+
+**Findings**:
+
+The total donation amount in the 2024 presidential post-general election was \$2,136,035. In 2020, it was \$1,896,300. As the sixth-largest donor in 2024, David D. Smith's donations made up nearly 4% of the total contribution amount. In 2020, the sixth-largest donor made up only the 1.5% of the total contribution amount.
+
+## Charts
+
+
+<iframe title="Top 10 campaign donors in the Maryland 2024 election " aria-label="Stacked Bars" id="datawrapper-chart-MAFhp" src="https://datawrapper.dwcdn.net/MAFhp/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a......data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.......data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.......data["datawrapper-height"][t]+"px";r.style.height=d}}}))}();
+</script>
+
+<iframe title="Top 10 donation recipients in the Maryland 2024 election" aria-label="Stacked Bars" id="datawrapper-chart-dL764" src="https://datawrapper.dwcdn.net/dL764/2/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.......data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.......data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.......data["datawrapper-height"][t]+"px";r.style.height=d}}}))}();
+</script>
+
+<iframe title="Top 10 contributors as percent of total contributions, by year" aria-label="Grouped Bars" id="datawrapper-chart-1I487" src="https://datawrapper.dwcdn.net/1I487/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="676" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.......data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.......data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.......data["datawrapper-height"][t]+"px";r.style.height=d}}}))}();
+</script>
+
+
+<iframe title="David Smith's contributions" aria-label="Interactive line chart" id="datawrapper-chart-JZXps" src="https://datawrapper.dwcdn.net/JZXps/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="439" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}}))}();
+</script>
+
+
+Code
+=======
+
+# **<span style="color:#6c3483;">**2024 data**</span>**
+
+
+
+
+
+### **<span style="color:#6c3483;">**Load software libraries**</span>**
+
+```{r}
+#install.packages("tidyverse")
+#install.packages("janitor")
+#install.packages("readxl")
+#install.packages("rvest")
+library(tidyverse)
+library(janitor)
+library(readxl)
+library(rvest)
+
+```
+
+
+### **<span style="color:#6c3483;">**Load data**</span>**
+
+```{r}
+
+# 
+# YOUR_DATA <- read.csv("../data/XXXXX.csv") |> 
+#     clean_names()
+
+data <- read.csv("./data/2024 Presidential Post General Md Financial Info 2024 Presidential Post General .csv") |> 
+    clean_names()
+
+
+```
+
+
+### **<span style="color:#6c3483;">**Explore the data types**</span>**
+```{r}
+
+#glimpse(YOUR_DATA)
+
+glimpse(data)
+
+```
+
+### **<span style="color:#6c3483;">**Fix dates**</span>**
+
+```{r}
+data <- data |> 
+  mutate(date = lubridate::mdy(contribution_date))
+```
+
+
+
+### **<span style="color:#6c3483;">**Data exploration: dates**</span>**
+
+```{r}
+data |> 
+   group_by(date, contribution_type) |>
+  summarize(count = n(), total =sum(contribution_amount)) |>
+  arrange(desc(count))
+```
+
+### **<span style="color:#6c3483;">**Total amount contributed by contributor, in dollars**</span>**
+
+```{r}
+contributor_total <- data |>
+group_by(contributor_name) |>
+  summarise(num = n(),
+          total = sum(contribution_amount))
+
+head(contributor_total, n=10)
+```
+
+# **<span style="color:#6c3483;">**Top 10 contributors**</span>**
+
+```{r}
+data |> 
+   group_by(contributor_name) |>
+  summarize(count = n(), total =sum(contribution_amount)) |>
+  arrange(desc(total))
+```
+
+### **<span style="color:#6c3483;">**Total amount received by committees, in dollars**</span>**
+
+```{r}
+receivingcommittee_total <- data |>
+  group_by(receiving_committee) |>
+  summarise(num = n(),
+          receiving_total = sum(contribution_amount))
+
+head(receivingcommittee_total, n=10)
+```
+
+# **<span style="color:#6c3483;">**Top 10 receiving committees**</span>**
+
+```{r}
+data |> 
+   group_by(receiving_committee) |>
+  summarize(count = n(), total =sum(contribution_amount)) |>
+  arrange(desc(total))
+```
+
+
+## **<span style="color:#6c3483;">**Total contributions**</span>**
+
+```{r}
+data |> pull(contribution_amount) |> sum()
+```
+
+# **<span style="color:#117a65;">**2020 data**</span>**
+
+
+### **<span style="color:#117a65;">**Load data**</span>**
+
+```{r}
+
+# 
+# YOUR_DATA <- read.csv("../data/XXXXX.csv") |> 
+#     clean_names()
+
+data <- read.csv("./data/2020 post-general.csv") |> 
+    clean_names()
+
+
+```
+
+
+### **<span style="color:#117a65;">**Explore the data types**</span>**
+
+```{r}
+
+#glimpse(YOUR_DATA)
+
+glimpse(data)
+
+```
+
+### **<span style="color:#117a65;">**Fix dates**</span>**
+
+```{r}
+data <- data |> 
+  mutate(date = lubridate::mdy(contribution_date))
+```
+
+
+
+### **<span style="color:#117a65;">**Data exploration: dates**</span>**
+
+```{r}
+data |> 
+   group_by(date, contribution_type) |>
+  summarize(count = n(), total =sum(contribution_amount)) |>
+  arrange(desc(count))
+```
+
+### **<span style="color:#117a65;">**Total amount contributed by contributor, in dollars**</span>**
+
+```{r}
+contributor_total <- data |>
+group_by(contributor_name) |>
+  summarise(num = n(),
+          total = sum(contribution_amount))
+
+head(contributor_total, n=10)
+```
+
+# **<span style="color:#117a65;">**Top 10 contributors**</span>**
+
+```{r}
+data |> 
+   group_by(contributor_name) |>
+  summarize(count = n(), total =sum(contribution_amount)) |>
+  arrange(desc(total))
+```
+
+### **<span style="color:#117a65;">**Total amount received by committees, in dollars**</span>**
+
+```{r}
+receivingcommittee_total <- data |>
+  group_by(receiving_committee) |>
+  summarise(num = n(),
+          receiving_total = sum(contribution_amount))
+
+head(receivingcommittee_total, n=10)
+```
+
+# **<span style="color:#117a65;">**Top 10 receiving committees**</span>**
+
+```{r}
+data |> 
+   group_by(receiving_committee) |>
+  summarize(count = n(), total =sum(contribution_amount)) |>
+  arrange(desc(total))
+```
+
+## **<span style="color:#117a65;">**Total contributions**</span>**
+```{r}
+data |> pull(contribution_amount) |> sum()
+```
+
+# 2025 data
+
+```{r}
+
+# 
+# YOUR_DATA <- read.csv("../data/XXXXX.csv") |> 
+#     clean_names()
+
+data <- read.csv("./data/2025 contributions.csv") |> 
+    clean_names()
+
+
+```
+
+
+### Explore the data types
+```{r}
+
+#glimpse(YOUR_DATA)
+
+glimpse(data)
+
+```
+
+### Fix dates
+```{r}
+data <- data |> 
+  mutate(date = lubridate::mdy(contribution_date))
+```
+
+
+
+### Data exploration: dates
+
+```{r}
+data |> 
+   group_by(date, contribution_type) |>
+  summarize(count = n(), total =sum(contribution_amount)) |>
+  arrange(desc(count))
+```
+
+### Total amount contributed, in dollars
+
+```{r}
+contributor_total <- data |>
+group_by(contributor_name) |>
+  summarise(num = n(),
+          total = sum(contribution_amount))
+
+head(contributor_total, n=10)
+```
+
+# Top 10 contributors
+
+```{r}
+data |> 
+   group_by(contributor_name) |>
+  summarize(count = n(), total =sum(contribution_amount)) |>
+  arrange(desc(total))
+```
+
+### Total amount received by committees, in dollars
+
+```{r}
+receivingcommittee_total <- data |>
+  group_by(receiving_committee) |>
+  summarise(num = n(),
+          receiving_total = sum(contribution_amount))
+
+head(receivingcommittee_total, n=10)
+```
+
+# Top 10 receiving committees
+
+```{r}
+data |> 
+   group_by(receiving_committee) |>
+  summarize(count = n(), total =sum(contribution_amount)) |>
+  arrange(desc(total))
+```
+
+# Total contribution amount
+```{r}
+data |> pull(contribution_amount) |> sum()
+```
+
+
+# **<span style="color:#a04000;">**David D. Smith contributions**</span>**
+
+### **<span style="color:#a04000;">**Load software libraries**</span>**
+
+
+
+
+### **<span style="color:#a04000;">**Load data**</span>**
+
+```{r}
+
+# 
+# YOUR_DATA <- read.csv("../data/XXXXX.csv") |> 
+#     clean_names()
+
+data <- read.csv("./data/David D smith.csv") |> 
+    clean_names()
+
+
+```
+
+
+### **<span style="color:#a04000;">**Explore the data types**</span>**
+
+```{r}
+
+#glimpse(YOUR_DATA)
+
+glimpse(data)
+
+```
+
+### **<span style="color:#a04000;">**Fix dates**</span>**
+
+```{r}
+data <- data |> 
+  mutate(date = lubridate::mdy(contribution_date))
+```
+
+
+
+### **<span style="color:#a04000;">**Data exploration: dates**</span>**
+
+```{r}
+data |> 
+   group_by(date, contribution_type) |>
+  summarize(count = n(), total =sum(contribution_amount)) |>
+  arrange(desc(count))
+```
+
+### **<span style="color:#a04000;">**Total amount contributed by contributor, in dollars**</span>**
+
+```{r}
+contributor_total <- data |>
+group_by(contributor_name) |>
+  summarise(num = n(),
+          total = sum(contribution_amount))
+
+head(contributor_total, n=10)
+```
+
+# **<span style="color:#a04000;">**Top 10 contributors**</span>**
+
+```{r}
+data |> 
+   group_by(contributor_name) |>
+  summarize(count = n(), total =sum(contribution_amount)) |>
+  arrange(desc(total))
+```
+
+### **<span style="color:#a04000;">**Total amount received by committees, in dollars**</span>**
+
+```{r}
+receivingcommittee_total <- data |>
+  group_by(receiving_committee) |>
+  summarise(num = n(),
+          receiving_total = sum(contribution_amount))
+
+head(receivingcommittee_total, n=10)
+```
+
+# **<span style="color:#a04000;">**Top 10 receiving committees**</span>**
+
+```{r}
+data |> 
+   group_by(receiving_committee) |>
+  summarize(count = n(), total =sum(contribution_amount)) |>
+  arrange(desc(total))
+```
+
+## **<span style="color:#a04000;">**Total contributions**</span>**
+```{r}
+data |> pull(contribution_amount) |> sum()
+```
+
+
